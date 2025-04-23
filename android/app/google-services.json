@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "533300417482",
+    "project_id": "fir-tutorial-b1947",
+    "storage_bucket": "fir-tutorial-b1947.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533300417482:android:2e1587d962ed29638db533",
+        "android_client_info": {
+          "package_name": "com.example.mental_heatlh_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPZkqcfImllG33Q90Q2949N1xbA8-DzG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
